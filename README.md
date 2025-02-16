@@ -1,7 +1,7 @@
-U+1F60A	 Hi there 👋
- I'm a second year cs student at must university.
- I'm a frontend angular on the way to be a mean stack developer.
- I'm a fast learner and pasionate about learning recent technologies.
+	😊Hi there 👋
+ 💻 I'm a second year cs student at must university.
+ 🌐 I'm a frontend angular on the way to be a mean stack developer.
+ 🚀I'm a fast learner and pasionate about learning recent technologies.
  
 const Belal_Salah = {
   code: ["Html" , "Css" ,"Javascript", "Typescript", "Bootstrap", "Angular"],
