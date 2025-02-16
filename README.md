@@ -1,16 +1,30 @@
 ## Hi there 👋
+const Belal_Salah = {
+  code: ["Html" , "Css" ,"Javascript", "Typescript", "Bootstrap", "Angular"],
+  askMe: ["Tech", "FrontEnd", "Mean Stack"],
+  technologies: {
+    backend: ["Node.js", "Express.js"],
+    frontend: [
+      "Angular",
+      "HTML5",
+      "CSS3",
+      "SCSS",
+      "Bootstrap",
+    ],
+    databases: [
+      "MongoDB",
+      "MySQL",
+      "SQLite",
+      "Cosmos DB",
+      "SQL Server",
+    ],
+  codePatterns: ["OOP", "data structure", "Alogrithms"],
+  editors: [
+    "VS Code",
+    "Visual Studio",
+  ],
 
-<!--
-**belal-Salah1/belal-Salah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  social: {
+    linkedin: "https://www.linkedin.com/in/belal-salah-2930b9287/",
+  },
+};
