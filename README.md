@@ -1,4 +1,4 @@
-😊 Hi there 👋
+😊 Hi there 👋;
 💻 I'm a second-year CS student at MUST University.
 🌐 I'm a frontend Angular developer on the way to becoming a MEAN stack developer.
 🚀 I'm a fast learner and passionate about learning recent technologies.
