@@ -26,11 +26,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  ![Belal's GitHub stats](https://github-readme-stats.vercel.app/api?username=belal-Salah1&show_icons=true&theme=github_dark)
-
-
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=belal-Salah1&show_icons=true&theme=github_dark" />
 </p>
+
 
 ---
 
