@@ -9,7 +9,7 @@
 
 - 🚀 Frontend Engineer focused on building responsive, scalable web apps  
 - 💡 Passionate about clean code, animations, performance & user experience  
-- 📚 Currently improving my skills in Web Performance, Testing, and Signals in Angular  
+- 📚 Currently improving my skills in Web Performance, Testing, and  Angular  
 - 🌱 Always learning and staying updated with the frontend ecosystem  
 
 ---
