@@ -26,8 +26,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BelalSalah&show_icons=true&theme=github_dark" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=BelalSalah&theme=dark" width="48%"/>
+  ![Belal's GitHub stats](https://github-readme-stats.vercel.app/api?username=belal-Salah1&show_icons=true&theme=github_dark)
+
+  
 </p>
 
 ---
