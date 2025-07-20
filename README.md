@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Belal Salah 👋</h1>
-<h2 align="center">
+<h3 align="center">
   <b>Junior Frontend Engineer </b>
-</h2>
+</h3>
 
 ---
 
