@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Belal Salah 👋</h1>
 <h3 align="center">
-  <b>Junior Frontend Engineer 💻 </b>
+  <b>Junior Frontend Engineer@Converted 💻 </b>
 </h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🚀 Frontend Engineer focused on building responsive, scalable web apps  
-- 💡 Passionate about clean code, animations, performance & user experience  
-- 📚 Currently improving my skills in Web Performance, Testing, and  Angular  
-- 🌱 Always learning and staying updated with the frontend ecosystem  
+- 🚀 FullStack Engineer Working with Angular ,vue3 , Nodejs and Laravel
+- 💡 Passionate about clean code, performance Optimization , design Patterns and System design
+- 📚 Currently improving my skills in Web Performance, Laravel, design Patterns and  Architecture  
+- 🌱 Always learning and staying updated with the lastest Technologes
 
 ---
 
