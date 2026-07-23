@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 
 - 🚀 Full-Stack Engineer with **1+ year of experience** working on AI-powered web applications
-- 🔗 I love building end-to-end applications — from software documentation and database design, to backend and frontend development, ending with production deployment
+- 🔗 I love building end-to-end applications,— from software documentation and database design, to backend and frontend development, ending with production deployment
 - 🎓 Working as a Full-Stack Engineer at Converted 
 - 💡 Passionate about clean code, performance optimization, design patterns and system design
 - 📚 Currently expanding my knowledge in **Software Architecture** and **System Design**
