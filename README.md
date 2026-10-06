@@ -25,7 +25,7 @@
 > Laravel • MySQL • Redis • REST APIs • Node.js • Express.js • MongoDB
 
 **DevOps & Cloud**
-> AWS • Docker • CI/CD
+> AWS • GCP • Docker • CI/CD
 
 **AI**
 > LLM Workflows • AI-Assisted Coding • AI Automation
